@@ -1,0 +1,67 @@
+div {
+  width: 80%;
+  padding: 5%;
+  border: 5px solid #dadada;
+  margin: 0px auto;
+}
+
+h3 {
+  color: tomato;
+  background-color: blueviolet;
+}
+
+h4 {
+  background-color: coral;
+}
+
+/* =====class use===== */
+.bgc_test {
+  background-color: burlywood;
+  border-color: blue;
+  border-style: solid;
+  border-width: 5px;
+}
+
+.bgc_two {
+  background: yellowgreen;
+}
+
+.border {
+  border: 5px solid tomato;
+}
+
+.border_two {
+  border: 5px dashed gold;
+}
+
+.h5 {
+  background-color: crimson;
+}
+
+#h5 {
+  font-size: 35px;
+}
+
+p {
+  background-color: #ee0bc8;
+  display: inline-block;
+  margin-bottom: 0;
+  font-weight: bold;
+  border: 5px solid rgb(0, 4, 255);
+  border-radius: 5px;
+}
+
+h6 {
+  width: 96px;
+  font-size: large;
+  border: 5px solid black;
+  padding: 5px 16px;
+  margin-left: 16px;
+  margin-right: 16px;
+}
+
+footer {
+  width: 100%;
+  border: 5px solid #ddd;
+  padding: 20px;
+}
